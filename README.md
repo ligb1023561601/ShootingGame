@@ -36,6 +36,7 @@
  右键：飞船右移  
   
  
+ ## 游戏的设置
  ## 界面截图
 ![image](https://github.com/ligb1023561601/ShootingGame/raw/master/images/捕获.PNG)
 
